@@ -30,5 +30,5 @@ Repo for study CS114 in UIT
 | `21522446` | Nguyễn Lê Tiến Phát    | 21522446@gm.uit.edu.vn | [![](https://img.shields.io/badge/howtodie123-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/howtodie123) |
 | `21522243` | Đỗ Phúc Kiên           | 21522243@gm.uit.edu.vn| none |
 | `21521809` | Nguyễn Quốc An         | 21521809@gm.uit.edu.vn| none |
-|''||||
+| `21522608` | Lê Phương Thảo         | 21522608@gm.uit.edu.vn| none |
 <!-- Template design by Howtodie  -->
