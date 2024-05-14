@@ -1,4 +1,4 @@
-# CS114_EzGame
+# CS114.O21.KHCL_EzGame
 Repo for study CS114 in UIT
 
 <!-- Create: 2021/09/09 12:12:12 -->
