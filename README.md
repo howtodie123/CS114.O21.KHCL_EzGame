@@ -13,8 +13,7 @@ Repo for study CS114 in UIT
 </div>
 
 #
-<!-- Badge -->
-![Language](https://img.shields.io/badge/python%203.8-%23FFF.svg?style=for-the-badge&logo=python)
+Welcome to my repository for the Machine Learning class projects. Here you'll find a collection showcasing my works throughout my participation at CS114.O21.KHCL, most of which is work-in-progress due to having too much exercises to do.
 
 # Thông tin Môn học
 <table>
