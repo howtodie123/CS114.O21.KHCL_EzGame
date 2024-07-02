@@ -12,8 +12,8 @@ Repo for study CS114 in UIT
   </a>
 </div>
 
-#
-Welcome to my repository for the Machine Learning class projects. Here you'll find a collection showcasing my works throughout my participation at CS114.O21.KHCL, most of which is work-in-progress due to having too much exercises to do.
+# Giới thiệu
+Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các dự án của lớp học Máy Học. Trong kho lưu trữ này, bạn sẽ tìm thấy nhiều dự án tôi đã thực hiện trong khóa học CS114.O21.KHCL. Phần lớn các dự án vẫn đang trong giai đoạn hoàn thiện do số lượng bài tập rất lớn mà tôi phải hoàn thành.
 
 # Thông tin Môn học
 <table>
